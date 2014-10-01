@@ -32,13 +32,7 @@
 
 \begin{document}
 
-\title{A Sample {\ttlit ACM} SIG Proceedings Paper in LaTeX
-Format\titlenote{(Does NOT produce the permission block, copyright information nor page numbering). For use with ACM\_PROC\_ARTICLE-SP.CLS. Supported by ACM.}}
-\subtitle{[Extended Abstract]
-\titlenote{A full version of this paper is available as
-\textit{Author's Guide to Preparing ACM SIG Proceedings Using
-\LaTeX$2_\epsilon$\ and BibTeX} at
-\texttt{www.acm.org/eaddress.htm}}}
+\title{Robot Chameleons}
 %
 % You need the command \numberofauthors to handle the 'placement
 % and alignment' of the authors beneath the title.
@@ -64,10 +58,7 @@ Format\titlenote{(Does NOT produce the permission block, copyright information n
 % without further effort on your part as the last section in
 % the body of your article BEFORE References or any Appendices.
 
-\numberofauthors{8} %  in this sample file, there are a *total*
-% of EIGHT authors. SIX appear on the 'first-page' (for formatting
-% reasons) and the remaining two appear in the \additionalauthors section.
-%
+\numberofauthors{5} 
 \author{
 % You can go ahead and credit any number of authors here,
 % e.g. one 'row of three' or two rows (consisting of one row of three
@@ -81,45 +72,37 @@ Format\titlenote{(Does NOT produce the permission block, copyright information n
 %
 % 1st. author
 \alignauthor
-Ben Trovato\titlenote{Dr.~Trovato insisted his name be first.}\\
-       \affaddr{Institute for Clarity in Documentation}\\
-       \affaddr{1932 Wallamaloo Lane}\\
-       \affaddr{Wallamaloo, New Zealand}\\
-       \email{trovato@corporation.com}
+Apurv Suman\\
+       \affaddr{Yale College 2016}\\
+       \affaddr{P.O. Box 204676}\\
+       \affaddr{New Haven, Connecticut}\\
+       \email{apurv.suman@yale.edu}
 % 2nd. author
 \alignauthor
-G.K.M. Tobin\titlenote{The secretary disavows
-any knowledge of this author's actions.}\\
-       \affaddr{Institute for Clarity in Documentation}\\
-       \affaddr{P.O. Box 1212}\\
-       \affaddr{Dublin, Ohio 43017-6221}\\
-       \email{webmaster@marysville-ohio.com}
+Rebecca Marvin\\
+       \affaddr{Yale College 2016}\\
+       \affaddr{IDK!!}\\
+       \affaddr{IDK!!}\\
+       \email{rebecca.marvin@yale.edu}
 % 3rd. author
-\alignauthor Lars Th{\o}rv{\"a}ld\titlenote{This author is the
-one who did all the really hard work.}\\
-       \affaddr{The Th{\o}rv{\"a}ld Group}\\
-       \affaddr{1 Th{\o}rv{\"a}ld Circle}\\
-       \affaddr{Hekla, Iceland}\\
-       \email{larst@affiliation.org}
+\alignauthor Henny Admoni\\
+       \affaddr{IDK!!}\\
+       \affaddr{IDK!!}\\
+       \affaddr{IDK!!}\\
+       \email{henny.admoni@yale.edu}
 \and  % use '\and' if you need 'another row' of author names
 % 4th. author
-\alignauthor Lawrence P. Leipuner\\
-       \affaddr{Brookhaven Laboratories}\\
-       \affaddr{Brookhaven National Lab}\\
-       \affaddr{P.O. Box 5000}\\
-       \email{lleipuner@researchlabs.org}
+\alignauthor Elena Corina Grigore\\
+       \affaddr{IDK!!}\\
+       \affaddr{IDK!!}\\
+       \affaddr{IDK!!}\\
+       \email{elena.corina.grigore@yale.edu}
 % 5th. author
-\alignauthor Sean Fogarty\\
-       \affaddr{NASA Ames Research Center}\\
-       \affaddr{Moffett Field}\\
-       \affaddr{California 94035}\\
-       \email{fogartys@amesres.org}
-% 6th. author
-\alignauthor Charles Palmer\\
-       \affaddr{Palmer Research Laboratories}\\
-       \affaddr{8600 Datapoint Drive}\\
-       \affaddr{San Antonio, Texas 78229}\\
-       \email{cpalmer@prl.com}
+\alignauthor Brian Scasselatti\\
+       \affaddr{IDK!!}\\
+       \affaddr{IDK!!}\\
+       \affaddr{IDK!!}\\
+       \email{brian.scasselatti@yale.edu}
 }
 % There's nothing stopping you putting the seventh, eighth, etc.
 % author on the opening page (as the 'third row') but we ask,
@@ -154,338 +137,57 @@ and BibTeX, and compare this source code with the printed
 output produced by the dvi file.
 \end{abstract}
 
-% A category with the (minimum) three required fields
-\category{H.4}{Information Systems Applications}{Miscellaneous}
-%A category including the fourth, optional field follows...
-\category{D.2.8}{Software Engineering}{Metrics}[complexity measures, performance measures]
-
-\terms{Theory}
-
-\keywords{ACM proceedings, \LaTeX, text tagging} % NOT required for Proceedings
+\keywords{human-robot interaction, mimicry, chameleon effect} % NOT required for Proceedings
 
 \section{Introduction}
-The \textit{proceedings} are the records of a conference.
-ACM seeks to give these conference by-products a uniform,
-high-quality appearance.  To do this, ACM has some rigid
-requirements for the format of the proceedings documents: there
-is a specified format (balanced  double columns), a specified
-set of fonts (Arial or Helvetica and Times Roman) in
-certain specified sizes (for instance, 9 point for body copy),
-a specified live area (18 $\times$ 23.5 cm [7" $\times$ 9.25"]) centered on
-the page, specified size of margins (1.9 cm [0.75"]) top, (2.54 cm [1"]) bottom
-and (1.9 cm [.75"]) left and right; specified column width
-(8.45 cm [3.33"]) and gutter size (.83 cm [.33"]).
+We now live in a world where robots have become a part of our daily lives. Whether it is Siri in your pocket or the recently released Jibo in your home, robots have moved from a purely functional space to an interactive and social space. With this new movement, there is a pressing need to understand the social effects and impact of robots, particularly humanoid or anthropomorphized robots. Understanding the social effects of a robot will provide us with new information on how to better design robots for human interaction, how to structure human environments for robot presences, and how to anticipate the impact robots will have on our society moving forward. 
 
-The good news is, with only a handful of manual
-settings\footnote{Two of these, the {\texttt{\char'134 numberofauthors}}
-and {\texttt{\char'134 alignauthor}} commands, you have
-already used; another, {\texttt{\char'134 balancecolumns}}, will
-be used in your very last run of \LaTeX\ to ensure
-balanced column heights on the last page.}, the \LaTeX\ document
-class file handles all of this for you.
+In trying to understand the social effects of robots, robotics must look to the field of psychology. Psychology can provide us a framework and a baseline to assess human-robot interaction. This is done by taking social constructs and effects from human-human interaction and mapping them to robots. This space of human-human effects mapped to human-robot interaction is still largely unexplored. In this study, we hope to elucidate a largely unexplored part of this space: automatic mimicry.
 
-The remainder of this document is concerned with showing, in
-the context of an ``actual'' document, the \LaTeX\ commands
-specifically available for denoting the structure of a
-proceedings paper, rather than with giving rigorous descriptions
-or explanations of such commands.
+Behavioral mimicry- the automatic imitation of gestures, postures, mannerisms, and other motor movements, is pervasive in human interactions (Chartrand \& Lakin 2013). \textit{Automatic} mimicry in particular is often unconscious and unintentional. For example, studies have shown participants mimicking confederates tapping their feet or touching their faces during interactions, even without realizing they were doing so (Chartrand \& Bargh 1999). Furthermore, research has also shown that participants found confederates more likeable when the confederates mimicked the postures of the participants. There are several reasons why such a behavior exists. From a neurological standpoint, there exist certain parts of the brain responsible for this mimicry, known as mirror neurons or the ``mirror system'' in humans, first highlighted in macaques in 1992 at the University of Parma (Ehrenfeld 2014). In fact an actual perception-behavior link exists behind automatic mimicry. This means that actions seen can trigger the mirror system in humans (Chartrand \& Bargh 1999). Beyond the neurology, there is a social component and possible evolutionary explanation for mimicry. Mimicry has been shown to create liking, empathy, and affiliation between interactants and act as the ``social glue'' that brings people together and bonds them (Lakin et al. 2003). Also, research suggests that mimicry serves a prosocial communicative purpose (Bavelas et al. 1986).
 
-\section{The {\secit Body} of The Paper}
-Typically, the body of a paper is organized
-into a hierarchical structure, with numbered or unnumbered
-headings for sections, subsections, sub-subsections, and even
-smaller sections.  The command \texttt{{\char'134}section} that
-precedes this paragraph is part of such a
-hierarchy.\footnote{This is the second footnote.  It
-starts a series of three footnotes that add nothing
-informational, but just give an idea of how footnotes work
-and look. It is a wordy one, just so you see
-how a longish one plays out.} \LaTeX\ handles the numbering
-and placement of these headings for you, when you use
-the appropriate heading commands around the titles
-of the headings.  If you want a sub-subsection or
-smaller part to be unnumbered in your output, simply append an
-asterisk to the command name.  Examples of both
-numbered and unnumbered headings will appear throughout the
-balance of this sample document.
+We find several reasons as to why automatic mimicry should be studied. In the broadest sense, automatic mimicry is a thinly explored area of human-robot interaction that has a parallel in human-human interaction. Given that psychological research on mimicry has highlighted questions about mimicking the ``right'' people (i.e. ingroups vs. outgroups) (Chartrand \& Lakin 2013, Yabar et al 2006, Bourgeois \& Hess 2008, Kavanah et al 2011), mimicry could highlight how humans view robots as social actors. Also, it has been observed that mimickers, and not just mimickees, have smoother interactions, smoother negotiations, more interpersonal trust, and more likability with their partners (Stel \& Vonk 2010, Maddux et al 2008, Swaab et al 2011), so finding out if automatic mimicry exists in humans could give us information on how to shape interactions between humans and robots. From a practical standpoint, if robots can induce mimicry in humans, it provides us insight in to how a robot may induce behavior in humans within the real world as well. One can foresee possible concerns of a child or infant mimicking a robot in the home. One could also foresee issues regarding individuals mimicking a robot in public, perceiving the robot's actions as a sign of permissibility. All these new questions, however, rest on the assumption that a robot could in fact elicit mimicry in humans, an assumption we hope to probe in this study. Observing no mimicry or some kind of adverse social effect would also raise questions about why the perception-behavior link in human-human interaction does not extend to human-robot interaction.
 
-Because the entire article is contained in
-the \textbf{document} environment, you can indicate the
-start of a new paragraph with a blank line in your
-input file; that is why this sentence forms a separate paragraph.
+Lastly, automated mimicry of physical behaviors is the first step in the larger phenomena of social contagion (Chartrand & Lakin 2013), so understanding how human-robot interaction works for automated mimicry can act as a stepping stone to social contagion with human-robot interaction.
 
-\subsection{Type Changes and {\subsecit Special} Characters}
-We have already seen several typeface changes in this sample.  You
-can indicate italicized words or phrases in your text with
-the command \texttt{{\char'134}textit}; emboldening with the
-command \texttt{{\char'134}textbf}
-and typewriter-style (for instance, for computer code) with
-\texttt{{\char'134}texttt}.  But remember, you do not
-have to indicate typestyle changes when such changes are
-part of the \textit{structural} elements of your
-article; for instance, the heading of this subsection will
-be in a sans serif\footnote{A third footnote, here.
-Let's make this a rather short one to
-see how it looks.} typeface, but that is handled by the
-document class file. Take care with the use
-of\footnote{A fourth, and last, footnote.}
-the curly braces in typeface changes; they mark
-the beginning and end of
-the text that is to be in the different typeface.
+Hypothesis and results???
 
-You can use whatever symbols, accented characters, or
-non-English characters you need anywhere in your document;
-you can find a complete list of what is
-available in the \textit{\LaTeX\
-User's Guide}\cite{Lamport:LaTeX}.
+\section{Relevant Work}
+There is evidence in research that suggests a robot could elicit automatic mimicry in humans. Oberman \& Pineda 2007 demonstrated through EEG that activation of the mirror neuron system in humans can occur through the perception of robot behavior, even without objects. This is significant as it informs us that the mirror neuron system and the perception-behavior link in humans is not uniquely limited to perceiving and reacting to human actions. 
 
-\subsection{Math Equations}
-You may want to display math equations in three distinct styles:
-inline, numbered or non-numbered display.  Each of
-the three are discussed in the next sections.
+Bailenson and Yee 2005 successfully demonstrated that liking, rapport, and affiliation can be increased with mimicry even with a digital agent, which they showed using a virtual agent on a computer screen mimicking the head posture of the participants. This highlights one direction of the mimicry effect, in which a participant being mimicked has a more positive experience with a mimicker. The existence of this direction with a non-human agent suggests the possibility of the opposite direction, a human mimicking a non-human agent. 
 
-\subsubsection{Inline (In-text) Equations}
-A formula that appears in the running text is called an
-inline or in-text formula.  It is produced by the
-\textbf{math} environment, which can be
-invoked with the usual \texttt{{\char'134}begin. . .{\char'134}end}
-construction or with the short form \texttt{\$. . .\$}. You
-can use any of the symbols and structures,
-from $\alpha$ to $\omega$, available in
-\LaTeX\cite{Lamport:LaTeX}; this section will simply show a
-few examples of in-text equations in context. Notice how
-this equation: \begin{math}\lim_{n\rightarrow \infty}x=0\end{math},
-set here in in-line math style, looks slightly different when
-set in display style.  (See next section).
+Riek, Paul and Peterson 2010 conducted a study hoping to observe improved likability with an embodied robot (resembling an ape) mimicking head posture of a participant. Their study identified problems with assessing human-robot interactions using a survey and the difficulties of capturing and mimicking behaviors between humans and robots. Their work guided us in our planning of behaviors.  Riek \& Robinson 2008 did find some support for more satisfactory interactions when facial expressions were mimicked by the same ape-like robot, although the findings were preliminary and in a pilot.
 
-\subsubsection{Display Equations}
-A numbered display equation -- one set off by vertical space
-from the text and centered horizontally -- is produced
-by the \textbf{equation} environment. An unnumbered display
-equation is produced by the \textbf{displaymath} environment.
+Hofree 2014 most significantly found that humans can spontaneously match facial expressions of an embodied android present in the room. There study suggested that the salience of mimicry depended on how human-like the android presented is. This finding pushed our study to focus on a robot that minimized human-like features and emotions, allowing us to test on a more basic set of behaviors, devoid of expressions of emotions such as anger or happiness. 
 
-Again, in either environment, you can use any of the symbols
-and structures available in \LaTeX; this section will just
-give a couple of examples of display equations in context.
-First, consider the equation, shown as an inline equation above:
-\begin{equation}\lim_{n\rightarrow \infty}x=0\end{equation}
-Notice how it is formatted somewhat differently in
-the \textbf{displaymath}
-environment.  Now, we'll enter an unnumbered equation:
-\begin{displaymath}\sum_{i=0}^{\infty} x + 1\end{displaymath}
-and follow it with another numbered equation:
-\begin{equation}\sum_{i=0}^{\infty}x_i=\int_{0}^{\pi+2} f\end{equation}
-just to demonstrate \LaTeX's able handling of numbering.
+\section{Methods} 
+In order to focus on \textit{automatic} mimicry, participants were given a task to complete while interacting the robot. Given the lack of research on robots inducing mimicry in humans, our study borrowed heavily from Chartrand \& Bargh 1999's experimental design. 
 
-\subsection{Citations}
-Citations to articles \cite{bowman:reasoning, clark:pct, braams:babel, herlihy:methodology},
-conference
-proceedings \cite{clark:pct} or books \cite{salas:calculus, Lamport:LaTeX} listed
-in the Bibliography section of your
-article will occur throughout the text of your article.
-You should use BibTeX to automatically produce this bibliography;
-you simply need to insert one of several citation commands with
-a key of the item cited in the proper location in
-the \texttt{.tex} file \cite{Lamport:LaTeX}.
-The key is a short reference you invent to uniquely
-identify each work; in this sample document, the key is
-the first author's surname and a
-word from the title.  This identifying key is included
-with each item in the \texttt{.bib} file for your article.
+Participants alternated describing paintings with a Nao robot. Halfway through the trial, the Nao would assume a posture (either putting its arms behind its back or putting its hands on its hips) while continuing with the description of paintings. We measured the time the participant assumed the posture both before and after the Nao assumed the posture, making this a within-subjects study. The ``before'' period acted as the control while the ``after'' period acted as the observed variable.
 
-The details of the construction of the \texttt{.bib} file
-are beyond the scope of this sample document, but more
-information can be found in the \textit{Author's Guide},
-and exhaustive details in the \textit{\LaTeX\ User's
-Guide}\cite{Lamport:LaTeX}.
+This whole process was repeated with a different Nao for the same participant. The different Nao was brought in by the experimenter immediately after the conclusion of the first session. During the second session, the Nao performed whichever behavior the first Nao did not (either putting its arms behind its back or putting its hands on its hips). This gave us a larger data set of behaviors to observe and also helped us to control for participants who had existing tendencies to do one behavior or another.
 
-This article shows only the plainest form
-of the citation command, using \texttt{{\char'134}cite}.
-This is what is stipulated in the SIGS style specifications.
-No other citation format is endorsed.
+Using two separate Naos came from the use of two different confederates in Chartrand \& Bargh 1999 study, which also used two different behaviors (touching the face and tapping the feet). The use of continuous postures rather than a discrete behavior was largely due to limitations of the robot, but we had little to reason to believe postures would not be a effective behaviors given the extensive use of postures in mimicry research (Chartrand \& Lakin 2013). 
 
-\subsection{Tables}
-Because tables cannot be split across pages, the best
-placement for them is typically the top of the page
-nearest their initial cite.  To
-ensure this proper ``floating'' placement of tables, use the
-environment \textbf{table} to enclose the table's contents and
-the table caption.  The contents of the table itself must go
-in the \textbf{tabular} environment, to
-be aligned properly in rows and columns, with the desired
-horizontal and vertical rules.  Again, detailed instructions
-on \textbf{tabular} material
-is found in the \textit{\LaTeX\ User's Guide}.
+Our study aimed to minimize features that would increase the likelihood of mimicry such as goal to affiliate, which has been shown to increase mimicry (Chartrand \& Lakin 2013, Chartrand \& Lakin 2003, Van Swol & Drury 2006). The Nao's descriptions of the paintings were kept to be as simple as possible, with little to no emotion or interpretation (Hofree 2014). The Nao also made no acknowledgement of the participants or their descriptions and the behaviors of arms behind back and hands on hips were chosen to minimize postural communication . 
 
-Immediately following this sentence is the point at which
-Table 1 is included in the input file; compare the
-placement of the table here with the table in the printed
-dvi output of this document.
+\subsection{Robot Platform}
+Nao is a 58-cm tall humanoid robot. Nao has 25 degrees of freedom, 2 cameras, 4 microphones, speakers, touch sensors, and an inertial measurement unit. For the study, Nao's legs were employed for standing up, Nao's arms were used to assume 1 of the 2 aforementioned postures, Nao's touch senors were used to start a script of behaviors, and Nao's speakers were used to voice the painting descriptions. 
 
-\begin{table}
-\centering
-\caption{Frequency of Special Characters}
-\begin{tabular}{|c|c|l|} \hline
-Non-English or Math&Frequency&Comments\\ \hline
-\O & 1 in 1,000& For Swedish names\\ \hline
-$\pi$ & 1 in 5& Common in math\\ \hline
-\$ & 4 in 5 & Used in business\\ \hline
-$\Psi^2_1$ & 1 in 40,000& Unexplained usage\\
-\hline\end{tabular}
-\end{table}
+Nao is designed by Aldebaran on its operating system called Naoqi. Python was used to program the Nao for the study. 
 
-To set a wider table, which takes up the whole width of
-the page's live area, use the environment
-\textbf{table*} to enclose the table's contents and
-the table caption.  As with a single-column table, this wide
-table will ``float" to a location deemed more desirable.
-Immediately following this sentence is the point at which
-Table 2 is included in the input file; again, it is
-instructive to compare the placement of the
-table here with the table in the printed dvi
-output of this document.
+\subsection{Procedure}
+Participants were first asked to fill out consent and video release forms. Participants were then randomly assigned to a group that saw arms behind back or hands on hips during the first session (with the other behavior occurring in the second session). Participants were then brought in to a closed 420cm x 300cm room. Participants faced the Nao at a distance of 180cm. The Nao stood on a platform raised 75cm off the ground. Next to the Nao stood next to a 68cm Apple iMac Display which ran Python scripts for the Nao's behaviors through a local area network connected to the Nao's head and displayed a PowerPoint presentation on Keynote. A GoPro was located at the back of the room and aimed at the participant's back. A camcorder was placed in the corner of the room facing the participant.
 
+The participant was asked to read the first slide of directions while the experimenter turned on the cameras. Next, the experimenter started the PowerPoint and tapped the Nao's head sensor to start the Nao's Python scripts. The PowerPoint slides and scripts were synchronized. The Nao would describe a painting for 1 minute after which the participant was notified on-screen to do so as well. This continued for 3 paintings total. At this point, the Nao performed the assigned behavior for session 1 and maintained that posture for 3 more paintings. After 6 total paintings, the Nao returned to a crouch position and the experimenter replaced the Nao with a new one. The same process was repeated with 6 more paintings, except the other behavior was performed in session 2. 
 
-\begin{table*}
-\centering
-\caption{Some Typical Commands}
-\begin{tabular}{|c|c|l|} \hline
-Command&A Number&Comments\\ \hline
-\texttt{{\char'134}alignauthor} & 100& Author alignment\\ \hline
-\texttt{{\char'134}numberofauthors}& 200& Author enumeration\\ \hline
-\texttt{{\char'134}table}& 300 & For tables\\ \hline
-\texttt{{\char'134}table*}& 400& For wider tables\\ \hline\end{tabular}
-\end{table*}
-% end the environment with {table*}, NOTE not {table}!
+After both sessions were completed, the participant completed a survey on Qualtrics, received \$5, and left.
 
-\subsection{Figures}
-Like tables, figures cannot be split across pages; the
-best placement for them
-is typically the top or the bottom of the page nearest
-their initial cite.  To ensure this proper ``floating'' placement
-of figures, use the environment
-\textbf{figure} to enclose the figure and its caption.
+\subsection{Data Collection}
+Video of the participants were collected through a camcorder that captured the front of the participant and a GoPro that captured the back of the participant (this was necessary to have to validate any behaviors the participants portrayed behind their backs).
 
-This sample document contains examples of \textbf{.eps}
-and \textbf{.ps} files to be displayable with \LaTeX.  More
-details on each of these is found in the \textit{Author's Guide}.
-
-\begin{figure}
-\centering
-\epsfig{file=fly.eps}
-\caption{A sample black and white graphic (.eps format).}
-\end{figure}
-
-\begin{figure}
-\centering
-\epsfig{file=fly.eps, height=1in, width=1in}
-\caption{A sample black and white graphic (.eps format)
-that has been resized with the \texttt{epsfig} command.}
-\end{figure}
-
-
-As was the case with tables, you may want a figure
-that spans two columns.  To do this, and still to
-ensure proper ``floating'' placement of tables, use the environment
-\textbf{figure*} to enclose the figure and its caption.
-
-Note that either {\textbf{.ps}} or {\textbf{.eps}} formats are
-used; use
-the \texttt{{\char'134}epsfig} or \texttt{{\char'134}psfig}
-commands as appropriate for the different file types.
-
-\subsection{Theorem-like Constructs}
-Other common constructs that may occur in your article are
-the forms for logical constructs like theorems, axioms,
-corollaries and proofs.  There are
-two forms, one produced by the
-command \texttt{{\char'134}newtheorem} and the
-other by the command \texttt{{\char'134}newdef}; perhaps
-the clearest and easiest way to distinguish them is
-to compare the two in the output of this sample document:
-
-This uses the \textbf{theorem} environment, created by
-the\linebreak\texttt{{\char'134}newtheorem} command:
-\newtheorem{theorem}{Theorem}
-\begin{theorem}
-Let $f$ be continuous on $[a,b]$.  If $G$ is
-an antiderivative for $f$ on $[a,b]$, then
-\begin{displaymath}\int^b_af(t)dt = G(b) - G(a).\end{displaymath}
-\end{theorem}
-
-The other uses the \textbf{definition} environment, created
-by the \texttt{{\char'134}newdef} command:
-\newdef{definition}{Definition}
-\begin{definition}
-If $z$ is irrational, then by $e^z$ we mean the
-unique number which has
-logarithm $z$: \begin{displaymath}{\log e^z = z}\end{displaymath}
-\end{definition}
-
-\begin{figure}
-\centering
-\psfig{file=rosette.ps, height=1in, width=1in,}
-\caption{A sample black and white graphic (.ps format) that has
-been resized with the \texttt{psfig} command.}
-\end{figure}
-
-Two lists of constructs that use one of these
-forms is given in the
-\textit{Author's  Guidelines}.
-
-\begin{figure*}
-\centering
-\epsfig{file=flies.eps}
-\caption{A sample black and white graphic (.eps format)
-that needs to span two columns of text.}
-\end{figure*}
-and don't forget to end the environment with
-{figure*}, not {figure}!
- 
-There is one other similar construct environment, which is
-already set up
-for you; i.e. you must \textit{not} use
-a \texttt{{\char'134}newdef} command to
-create it: the \textbf{proof} environment.  Here
-is a example of its use:
-\begin{proof}
-Suppose on the contrary there exists a real number $L$ such that
-\begin{displaymath}
-\lim_{x\rightarrow\infty} \frac{f(x)}{g(x)} = L.
-\end{displaymath}
-Then
-\begin{displaymath}
-l=\lim_{x\rightarrow c} f(x)
-= \lim_{x\rightarrow c}
-\left[ g{x} \cdot \frac{f(x)}{g(x)} \right ]
-= \lim_{x\rightarrow c} g(x) \cdot \lim_{x\rightarrow c}
-\frac{f(x)}{g(x)} = 0\cdot L = 0,
-\end{displaymath}
-which contradicts our assumption that $l\neq 0$.
-\end{proof}
-
-Complete rules about using these environments and using the
-two different creation commands are in the
-\textit{Author's Guide}; please consult it for more
-detailed instructions.  If you need to use another construct,
-not listed therein, which you want to have the same
-formatting as the Theorem
-or the Definition\cite{salas:calculus} shown above,
-use the \texttt{{\char'134}newtheorem} or the
-\texttt{{\char'134}newdef} command,
-respectively, to create it.
-
-\subsection*{A {\secit Caveat} for the \TeX\ Expert}
-Because you have just been given permission to
-use the \texttt{{\char'134}newdef} command to create a
-new form, you might think you can
-use \TeX's \texttt{{\char'134}def} to create a
-new command: \textit{Please refrain from doing this!}
-Remember that your \LaTeX\ source code is primarily intended
-to create camera-ready copy, but may be converted
-to other forms -- e.g. HTML. If you inadvertently omit
-some or all of the \texttt{{\char'134}def}s recompilation will
-be, to say the least, problematic.
+The videos were coded using ELAN 4.7.2. Both behaviors and variations of the behaviors were coded for. Participants also filled out a survey comprising of Likert Scale questions on intelligence and likability, short answer questions on what they liked/noticed about the trial, and demographic questions.
 
 \section{Conclusions}
 This paragraph will end the body of this sample document.
