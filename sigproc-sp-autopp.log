@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=latex 2014.5.25)  3 OCT 2014 13:32
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=latex 2014.5.25)  3 OCT 2014 13:48
 entering extended mode
  %&-line parsing enabled.
 **\let \APPmakepictures \empty \input  sigproc-sp.tex
@@ -540,7 +540,7 @@ LaTeX Warning: Citation `naodocumentation' on page \thepage  undefined on input
  line 161.
 
 
-Overfull \hbox (8.94168pt too wide) in paragraph at lines 211--212
+Overfull \hbox (8.94168pt too wide) in paragraph at lines 218--219
 []\T1/aer/m/n/9 For the strict def-i-ni-tion of hands be-hind back, non-spontan
 eous
  []
@@ -550,38 +550,38 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 LaTeX Warning: Citation `bargh2012substitutability' on page \thepage  undefined
- on input line 260.
+ on input line 272.
 
 
 LaTeX Warning: Citation `leander2012you' on page \thepage  undefined on input l
-ine 260.
+ine 272.
 
 
 LaTeX Warning: Citation `stel2010mimicking' on page \thepage  undefined on inpu
-t line 260.
+t line 272.
 
 
 LaTeX Warning: Citation `zhong2008cold' on page \thepage  undefined on input li
-ne 260.
+ne 272.
 
 
 LaTeX Warning: Citation `kavanagh2011s' on page \thepage  undefined on input li
-ne 260.
-
-
-LaTeX Warning: Citation `bailenson2005digital' on page \thepage  undefined on i
-nput line 262.
-
-
-LaTeX Warning: Citation `bailenson2005digital' on page \thepage  undefined on i
-nput line 262.
+ne 272.
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
+LaTeX Warning: Citation `bailenson2005digital' on page \thepage  undefined on i
+nput line 274.
+
+
+LaTeX Warning: Citation `bailenson2005digital' on page \thepage  undefined on i
+nput line 274.
+
+
 LaTeX Warning: Citation `chartrand2013antecedents' on page \thepage  undefined 
-on input line 267.
+on input line 279.
 
 No file sigproc-sp-autopp.bbl.
 
@@ -589,8 +589,8 @@ Package pst-pdf Warning: Picture container needs cropping..
 
  ) 
 Here is how much of TeX's memory you used:
- 9463 strings out of 493118
- 160417 string characters out of 6135459
+ 9464 strings out of 493118
+ 160424 string characters out of 6135459
  225688 words of memory out of 5000000
  12774 multiletter control sequences out of 15000+600000
  39815 words of font info for 51 fonts, out of 8000000 for 9000

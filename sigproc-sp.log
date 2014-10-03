@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.5.25)  3 OCT 2014 13:32
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.5.25)  3 OCT 2014 13:48
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -452,6 +452,9 @@ LaTeX Warning: Label `f:bert' multiply defined.
 
 LaTeX Warning: Label `f:bert' multiply defined.
 
+
+LaTeX Warning: Label `f:bert' multiply defined.
+
 )
 \openout1 = `sigproc-sp.aux'.
 
@@ -532,28 +535,40 @@ Overfull \hbox (4.89397pt too wide) in paragraph at lines 152--153
 bot.
  []
 
-[2] <normal3.jpg, id=15, 2457.18pt x 3276.24pt>
-File: normal3.jpg Graphic file (type jpg)
- <use normal3.jpg>
-Package pdftex.def Info: normal3.jpg used on input line 167.
-(pdftex.def)             Requested size: 155.99854pt x 207.96394pt.
+[2] <images/normal3.jpg, id=15, 2457.18pt x 3276.24pt>
+File: images/normal3.jpg Graphic file (type jpg)
 
-<hips7.jpg, id=16, 2457.18pt x 3276.24pt>
-File: hips7.jpg Graphic file (type jpg)
- <use hips7.jpg>
-Package pdftex.def Info: hips7.jpg used on input line 174.
+<use images/normal3.jpg>
+Package pdftex.def Info: images/normal3.jpg used on input line 167.
 (pdftex.def)             Requested size: 155.99854pt x 207.96394pt.
+ <images/hips7.jpg, id=16, 2457.18pt x 3276.24pt>
+File: images/hips7.jpg Graphic file (type jpg)
 
-<behind3.jpg, id=17, 2457.18pt x 3276.24pt>
-File: behind3.jpg Graphic file (type jpg)
- <use behind3.jpg>
-Package pdftex.def Info: behind3.jpg used on input line 181.
+<use images/hips7.jpg>
+Package pdftex.def Info: images/hips7.jpg used on input line 174.
+(pdftex.def)             Requested size: 155.99854pt x 207.96394pt.
+ <images/behind3.jpg, id=17, 2457.18pt x 3276.24pt>
+File: images/behind3.jpg Graphic file (type jpg)
+
+<use images/behind3.jpg>
+Package pdftex.def Info: images/behind3.jpg used on input line 181.
 (pdftex.def)             Requested size: 155.99854pt x 207.96394pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [3 <./normal3.jpg> <./hips7.jpg> <./behind3.jpg>]
-Overfull \hbox (8.94168pt too wide) in paragraph at lines 211--212
+ [3 <./images/normal3.jpg> <./images/hips7.jpg> <./images/behind3.jpg>]
+<images/setup.jpg, id=21, 963.6pt x 722.7pt>
+File: images/setup.jpg Graphic file (type jpg)
+ <use images/setup.jpg>
+Package pdftex.def Info: images/setup.jpg used on input line 195.
+(pdftex.def)             Requested size: 252.00073pt x 189.0003pt.
+
+Overfull \hbox (12.00073pt too wide) in paragraph at lines 195--195
+ [][] 
+ []
+
+
+Overfull \hbox (8.94168pt too wide) in paragraph at lines 218--219
 []\T1/aer/m/n/9 For the strict def-i-ni-tion of hands be-hind back, non-spontan
 eous
  []
@@ -561,57 +576,54 @@ eous
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [4]
-<hstrict.jpg, id=24, 309.3156pt x 319.1925pt>
-File: hstrict.jpg Graphic file (type jpg)
- <use hstrict.jpg>
-Package pdftex.def Info: hstrict.jpg used on input line 221.
+ [4 <./images/setup.jpg>] <images/hstrict.jpg, id=25, 309.3156pt x 319.1925pt>
+File: images/hstrict.jpg Graphic file (type jpg)
+
+<use images/hstrict.jpg>
+Package pdftex.def Info: images/hstrict.jpg used on input line 228.
 (pdftex.def)             Requested size: 155.99854pt x 160.97906pt.
+ <images/hloose.jpg, id=26, 310.2792pt x 317.2653pt>
+File: images/hloose.jpg Graphic file (type jpg)
 
-<hloose.jpg, id=25, 310.2792pt x 317.2653pt>
-File: hloose.jpg Graphic file (type jpg)
- <use hloose.jpg>
-Package pdftex.def Info: hloose.jpg used on input line 227.
+<use images/hloose.jpg>
+Package pdftex.def Info: images/hloose.jpg used on input line 235.
 (pdftex.def)             Requested size: 155.99854pt x 159.51334pt.
+ <images/bstrict.jpg, id=27, 323.2878pt x 321.3606pt>
+File: images/bstrict.jpg Graphic file (type jpg)
 
-<bstrict.jpg, id=26, 323.2878pt x 321.3606pt>
-File: bstrict.jpg Graphic file (type jpg)
- <use bstrict.jpg>
-Package pdftex.def Info: bstrict.jpg used on input line 233.
+<use images/bstrict.jpg>
+Package pdftex.def Info: images/bstrict.jpg used on input line 242.
 (pdftex.def)             Requested size: 155.99854pt x 155.07022pt.
+ <images/bloose.jpg, id=28, 327.3831pt x 316.3017pt>
+File: images/bloose.jpg Graphic file (type jpg)
 
-<bloose.jpg, id=27, 327.3831pt x 316.3017pt>
-File: bloose.jpg Graphic file (type jpg)
- <use bloose.jpg>
-Package pdftex.def Info: bloose.jpg used on input line 239.
+<use images/bloose.jpg>
+Package pdftex.def Info: images/bloose.jpg used on input line 249.
 (pdftex.def)             Requested size: 155.99854pt x 150.71785pt.
+ <images/svl.jpg, id=29, 288.1164pt x 306.1839pt>
+File: images/svl.jpg Graphic file (type jpg)
 
-<svl.jpg, id=28, 288.1164pt x 306.1839pt>
-File: svl.jpg Graphic file (type jpg)
- <use svl.jpg>
-Package pdftex.def Info: svl.jpg used on input line 245.
+<use images/svl.jpg>
+Package pdftex.def Info: images/svl.jpg used on input line 256.
 (pdftex.def)             Requested size: 155.99854pt x 165.78067pt.
- [5 <./hstrict.jpg> <./hloose.jpg> <./bstrict.jpg> <./bloose.jpg> <./svl.jpg>]
+ [5 <./images/hstrict.jpg> <./images/hloose.jpg> <./images/bstrict.jpg> <./imag
+es/bloose.jpg> <./images/svl.jpg>]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-
-(./sigproc-sp.bbl [6]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-) [7]
-(./sigproc-sp.aux)
+ [6]
+(./sigproc-sp.bbl) [7] (./sigproc-sp.aux)
 
 LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 9876 strings out of 493117
- 165997 string characters out of 6135433
+ 9881 strings out of 493117
+ 166315 string characters out of 6135433
  227989 words of memory out of 5000000
- 13151 multiletter control sequences out of 15000+600000
+ 13155 multiletter control sequences out of 15000+600000
  47315 words of font info for 64 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 50i,11n,44p,2302b,350s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 50i,11n,44p,2302b,352s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2014/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
 exlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb></usr/local/tex
 live/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/local/texliv
@@ -619,10 +631,10 @@ e/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmti9.pfb></usr/local/texlive/
 2014/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/2014/te
 xmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/local/texlive/2014/texmf-dis
 t/fonts/type1/urw/times/utmb8a.pfb>
-Output written on sigproc-sp.pdf (7 pages, 8301313 bytes).
+Output written on sigproc-sp.pdf (7 pages, 8322248 bytes).
 PDF statistics:
- 61 PDF objects out of 1000 (max. 8388607)
+ 62 PDF objects out of 1000 (max. 8388607)
  37 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 41 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 46 words of extra memory for PDF output out of 10000 (max. 10000000)
 
