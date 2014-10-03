@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=latex 2014.5.25)  3 OCT 2014 13:48
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=latex 2014.5.25)  3 OCT 2014 17:56
 entering extended mode
  %&-line parsing enabled.
 **\let \APPmakepictures \empty \input  sigproc-sp.tex
@@ -370,42 +370,42 @@ File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
 \Gread@gobject=\count143
 )))
 No file sigproc-sp-autopp.aux.
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
 Preview: Fontsize 9pt
-LaTeX Font Info:    Try loading font information for U+msa on input line 112.
+LaTeX Font Info:    Try loading font information for U+msa on input line 113.
 (/usr/local/texlive/2014/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 112.
+LaTeX Font Info:    Try loading font information for U+msb on input line 113.
 (/usr/local/texlive/2014/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Try loading font information for U+lasy on input line 112.
+LaTeX Font Info:    Try loading font information for U+lasy on input line 113.
 (/usr/local/texlive/2014/texmf-dist/tex/latex/base/ulasy.fd
 File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
 )
-Overfull \hbox (3.49861pt too wide) in paragraph at lines 112--112
+Overfull \hbox (3.49861pt too wide) in paragraph at lines 113--113
  []\eaddfnt rebecca.marvin@yale.edu| 
  []
 
 
-Overfull \hbox (27.40186pt too wide) in paragraph at lines 112--112
+Overfull \hbox (27.40186pt too wide) in paragraph at lines 113--113
  []\eaddfnt elena.corina.grigore@yale.edu| 
  []
 
 
-Overfull \hbox (7.32632pt too wide) in paragraph at lines 112--112
+Overfull \hbox (7.32632pt too wide) in paragraph at lines 113--113
  []\eaddfnt brian.scasselatti@yale.edu| 
  []
 
@@ -478,123 +478,185 @@ on input line 128.
 
 
 LaTeX Warning: Citation `oberman2007eeg' on page \thepage  undefined on input l
-ine 141.
-
-
-Overfull \hbox (1.31247pt too wide) in paragraph at lines 141--142
-\T1/aer/m/n/9 elicit au-to-matic mimicry in hu-mans. Ober-man demon-strated
- []
+ine 134.
 
 
 LaTeX Warning: Citation `bailenson2005digital' on page \thepage  undefined on i
-nput line 143.
+nput line 136.
 
 
 LaTeX Warning: Citation `riek2010my' on page \thepage  undefined on input line 
-145.
+138.
 
 
 LaTeX Warning: Citation `riek2008real' on page \thepage  undefined on input lin
-e 145.
+e 138.
 
 
 LaTeX Warning: Citation `hofree2014bridging' on page \thepage  undefined on inp
-ut line 147.
+ut line 140.
+
+
+LaTeX Warning: Citation `chartrand2013antecedents' on page \thepage  undefined 
+on input line 142.
+
+
+LaTeX Warning: Citation `drury2006effects' on page \thepage  undefined on input
+ line 142.
+
+
+LaTeX Warning: Citation `lakin2003using' on page \thepage  undefined on input l
+ine 142.
+
+
+LaTeX Warning: Citation `hofree2014bridging' on page \thepage  undefined on inp
+ut line 142.
+
+
+Overfull \hbox (2.0413pt too wide) in paragraph at lines 142--143
+\T1/aer/m/n/9 more rig-or-ous base-line for hu-man mimicry of robots. Hofree's
+ []
 
 
 LaTeX Warning: Citation `chartrand1999chameleon' on page \thepage  undefined on
- input line 150.
+ input line 145.
 
 
-Overfull \hbox (4.89397pt too wide) in paragraph at lines 152--153
+Overfull \hbox (4.89397pt too wide) in paragraph at lines 149--150
 []\T1/aer/m/n/9 Participants al-ter-nated de-scrib-ing paint-ings with a Nao ro
 bot.
  []
 
 
 LaTeX Warning: Citation `chartrand1999chameleon' on page \thepage  undefined on
- input line 156.
+ input line 153.
 
 
 LaTeX Warning: Citation `chartrand2013antecedents' on page \thepage  undefined 
-on input line 156.
-
-
-LaTeX Warning: Citation `chartrand2013antecedents' on page \thepage  undefined 
-on input line 158.
-
-
-LaTeX Warning: Citation `drury2006effects' on page \thepage  undefined on input
- line 158.
-
-
-LaTeX Warning: Citation `lakin2003using' on page \thepage  undefined on input l
-ine 158.
+on input line 153.
 
 
 LaTeX Warning: Citation `hofree2014bridging' on page \thepage  undefined on inp
-ut line 158.
+ut line 155.
+
+
+Underfull \vbox (badness 2698) has occurred while \output is active []
+
+
+LaTeX Warning: Reference `normal' on page \thepage  undefined on input line 162
+.
 
 
 LaTeX Warning: Citation `naodocumentation' on page \thepage  undefined on input
- line 161.
+ line 162.
 
 
-Overfull \hbox (8.94168pt too wide) in paragraph at lines 218--219
-[]\T1/aer/m/n/9 For the strict def-i-ni-tion of hands be-hind back, non-spontan
-eous
+LaTeX Warning: Reference `behind' on page \thepage  undefined on input line 186
+.
+
+
+LaTeX Warning: Reference `hips' on page \thepage  undefined on input line 186.
+
+
+LaTeX Warning: Reference `setup' on page \thepage  undefined on input line 186.
+
+
+
+Overfull \hbox (9.60046pt too wide) in paragraph at lines 211--214
+\T1/aer/m/n/9 nif-i-cance used the fol-low-ing guide-lines and jus-ti-fi-ca-tio
+ns. Given
  []
 
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
+LaTeX Warning: Reference `hstrict' on page \thepage  undefined on input line 22
+2.
+
+
+LaTeX Warning: Reference `hloose' on page \thepage  undefined on input line 235
+.
+
+
+Underfull \vbox (badness 3838) has occurred while \output is active []
+
+
+LaTeX Warning: Reference `bstrict' on page \thepage  undefined on input line 24
+9.
+
+
+Overfull \hbox (10.7779pt too wide) in paragraph at lines 258--259
+[]\T1/aer/m/n/9 For the \T1/aer/bx/n/9 loose \T1/aer/m/n/9 def-i-ni-tion of han
+ds be-hind back, non-spontaneous
+ []
+
+
+LaTeX Warning: Reference `bloose' on page \thepage  undefined on input line 262
+.
+
+
+LaTeX Warning: Reference `svl' on page \thepage  undefined on input line 288.
+
+
+Overfull \hbox (11.6872pt too wide) in paragraph at lines 288--289
+\T1/aer/m/n/9 per-form the be-hav-ior spon-ta-neously, their po-ten-tial for mi
+micry
+ []
 
 
 LaTeX Warning: Citation `bargh2012substitutability' on page \thepage  undefined
- on input line 272.
+ on input line 299.
 
 
 LaTeX Warning: Citation `leander2012you' on page \thepage  undefined on input l
-ine 272.
+ine 299.
 
 
 LaTeX Warning: Citation `stel2010mimicking' on page \thepage  undefined on inpu
-t line 272.
+t line 299.
 
 
 LaTeX Warning: Citation `zhong2008cold' on page \thepage  undefined on input li
-ne 272.
+ne 299.
 
 
 LaTeX Warning: Citation `kavanagh2011s' on page \thepage  undefined on input li
-ne 272.
+ne 299.
 
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-LaTeX Warning: Citation `bailenson2005digital' on page \thepage  undefined on i
-nput line 274.
+Underfull \vbox (badness 3838) has occurred while \output is active []
 
 
 LaTeX Warning: Citation `bailenson2005digital' on page \thepage  undefined on i
-nput line 274.
+nput line 301.
+
+
+LaTeX Warning: Citation `bailenson2005digital' on page \thepage  undefined on i
+nput line 301.
+
+
+Overfull \hbox (3.39789pt too wide) in paragraph at lines 306--307
+\T1/aer/m/n/9 sen-tial piece of de-sign-ing so-cial robots. In par-tic-u-lar, m
+imicry
+ []
 
 
 LaTeX Warning: Citation `chartrand2013antecedents' on page \thepage  undefined 
-on input line 279.
+on input line 309.
 
 No file sigproc-sp-autopp.bbl.
 
 Package pst-pdf Warning: Picture container needs cropping..
 
+
+LaTeX Warning: There were undefined references.
+
  ) 
 Here is how much of TeX's memory you used:
- 9464 strings out of 493118
- 160424 string characters out of 6135459
- 225688 words of memory out of 5000000
- 12774 multiletter control sequences out of 15000+600000
+ 9473 strings out of 493118
+ 160492 string characters out of 6135459
+ 226688 words of memory out of 5000000
+ 12783 multiletter control sequences out of 15000+600000
  39815 words of font info for 51 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 50i,11n,44p,2339b,256s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 50i,11n,44p,2374b,256s stack positions out of 5000i,500n,10000p,200000b,80000s
 
 No pages of output.
