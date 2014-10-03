@@ -1,35 +1,113 @@
-\begin{thebibliography}{1}
+\begin{thebibliography}{10}
 
-\bibitem{bowman:reasoning}
-M.~Bowman, S.~K. Debray, and L.~L. Peterson.
-\newblock Reasoning about naming systems.
-\newblock {\em ACM Trans. Program. Lang. Syst.}, 15(5):795--825, November 1993.
+\bibitem{naodocumentation}
+{\em Nao Documentation}.
 
-\bibitem{braams:babel}
-J.~Braams.
-\newblock Babel, a multilingual style-option system for use with latex's
-  standard document styles.
-\newblock {\em TUGboat}, 12(2):291--301, June 1991.
+\bibitem{bailenson2005digital}
+J.~N. Bailenson and N.~Yee.
+\newblock Digital chameleons automatic assimilation of nonverbal gestures in
+  immersive virtual environments.
+\newblock {\em Psychological science}, 16(10):814--819, 2005.
 
-\bibitem{clark:pct}
-M.~Clark.
-\newblock Post congress tristesse.
-\newblock In {\em TeX90 Conference Proceedings}, pages 84--89. TeX Users Group,
-  March 1991.
+\bibitem{bavelas1986show}
+J.~B. Bavelas, A.~Black, C.~R. Lemery, and J.~Mullett.
+\newblock " i show how you feel": Motor mimicry as a communicative act.
+\newblock {\em Journal of Personality and Social Psychology}, 50(2):322, 1986.
 
-\bibitem{herlihy:methodology}
-M.~Herlihy.
-\newblock A methodology for implementing highly concurrent data objects.
-\newblock {\em ACM Trans. Program. Lang. Syst.}, 15(5):745--770, November 1993.
+\bibitem{bourgeois2008impact}
+P.~Bourgeois and U.~Hess.
+\newblock The impact of social context on mimicry.
+\newblock {\em Biological psychology}, 77(3):343--352, 2008.
 
-\bibitem{Lamport:LaTeX}
-L.~Lamport.
-\newblock {\em LaTeX User's Guide and Document Reference Manual}.
-\newblock Addison-Wesley Publishing Company, Reading, Massachusetts, 1986.
+\bibitem{chartrand1999chameleon}
+T.~L. Chartrand and J.~A. Bargh.
+\newblock The chameleon effect: The perception--behavior link and social
+  interaction.
+\newblock {\em Journal of personality and social psychology}, 76(6):893, 1999.
 
-\bibitem{salas:calculus}
-S.~Salas and E.~Hille.
-\newblock {\em Calculus: One and Several Variable}.
-\newblock John Wiley and Sons, New York, 1978.
+\bibitem{chartrand2013antecedents}
+T.~L. Chartrand and J.~L. Lakin.
+\newblock The antecedents and consequences of human behavioral mimicry.
+\newblock {\em Annual review of psychology}, 64:285--308, 2013.
+
+\bibitem{drury2006effects}
+M.~Drury.
+\newblock The effects of shared opinions on nonverbal mimicry.
+\newblock 2006.
+
+\bibitem{ehrenfeld2011reflections}
+T.~Ehrenfeld.
+\newblock Reflections on mirror neurons.
+\newblock {\em Association for Psychological Science Observer}, 24(3), 2011.
+
+\bibitem{hofree2014bridging}
+G.~Hofree, P.~Ruvolo, M.~S. Bartlett, and P.~Winkielman.
+\newblock Bridging the mechanical and the human mind: Spontaneous mimicry of a
+  physically present android.
+\newblock {\em PloS one}, 9(7):e99934, 2014.
+
+\bibitem{kavanagh2011s}
+L.~C. Kavanagh, C.~L. Suhler, P.~S. Churchland, and P.~Winkielman.
+\newblock When it’s an error to mirror the surprising reputational costs of
+  mimicry.
+\newblock {\em Psychological science}, 2011.
+
+\bibitem{lakin2003using}
+J.~L. Lakin and T.~L. Chartrand.
+\newblock Using nonconscious behavioral mimicry to create affiliation and
+  rapport.
+\newblock {\em Psychological science}, 14(4):334--339, 2003.
+
+\bibitem{lakin2003chameleon}
+J.~L. Lakin, V.~E. Jefferis, C.~M. Cheng, and T.~L. Chartrand.
+\newblock The chameleon effect as social glue: Evidence for the evolutionary
+  significance of nonconscious mimicry.
+\newblock {\em Journal of nonverbal behavior}, 27(3):145--162, 2003.
+
+\bibitem{maddux2008chameleons}
+W.~W. Maddux, E.~Mullen, and A.~D. Galinsky.
+\newblock Chameleons bake bigger pies and take bigger pieces: Strategic
+  behavioral mimicry facilitates negotiation outcomes.
+\newblock {\em Journal of Experimental Social Psychology}, 44(2):461--468,
+  2008.
+
+\bibitem{oberman2007eeg}
+L.~M. Oberman, J.~P. McCleery, V.~S. Ramachandran, and J.~A. Pineda.
+\newblock Eeg evidence for mirror neuron activity during the observation of
+  human and robot actions: Toward an analysis of the human qualities of
+  interactive robots.
+\newblock {\em Neurocomputing}, 70(13):2194--2203, 2007.
+
+\bibitem{riek2010my}
+L.~D. Riek, P.~C. Paul, and P.~Robinson.
+\newblock When my robot smiles at me: Enabling human-robot rapport via
+  real-time head gesture mimicry.
+\newblock {\em Journal on Multimodal User Interfaces}, 3(1-2):99--108, 2010.
+
+\bibitem{riek2008real}
+L.~D. Riek and P.~Robinson.
+\newblock Real-time empathy: Facial mimicry on a robot.
+\newblock In {\em Workshop on Affective Interaction in Natural Environments
+  (AFFINE) at the International ACM Conference on Multimodal Interfaces (ICMI
+  08). ACM}, 2008.
+
+\bibitem{stel2010mimicry}
+M.~Stel and R.~Vonk.
+\newblock Mimicry in social interaction: Benefits for mimickers, mimickees, and
+  their interaction.
+\newblock {\em British Journal of Psychology}, 101(2):311--323, 2010.
+
+\bibitem{swaab2011early}
+R.~I. Swaab, W.~W. Maddux, and M.~Sinaceur.
+\newblock Early words that work: When and how virtual linguistic mimicry
+  facilitates negotiation outcomes.
+\newblock {\em Journal of Experimental Social Psychology}, 47(3):616--621,
+  2011.
+
+\bibitem{yabar2006implicit}
+Y.~Yabar, L.~Johnston, L.~Miles, and V.~Peace.
+\newblock Implicit behavioral mimicry: Investigating the impact of group
+  membership.
+\newblock {\em Journal of Nonverbal Behavior}, 30(3):97--113, 2006.
 
 \end{thebibliography}

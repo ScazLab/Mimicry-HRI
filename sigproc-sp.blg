@@ -1,46 +1,49 @@
-This is BibTeX, Version 0.99d (TeX Live 2013)
+This is BibTeX, Version 0.99d (TeX Live 2014)
 Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: sigproc-sp.aux
 The style file: abbrv.bst
 Database file #1: sigproc.bib
-You've used 6 entries,
+Warning--to sort, need author, organization, or key in naodocumentation
+Warning--empty journal in drury2006effects
+You've used 19 entries,
             2118 wiz_defined-function locations,
-            537 strings with 4454 characters,
-and the built_in function-call counts, 1813 in all, are:
-= -- 176
-> -- 59
-< -- 1
-+ -- 25
-- -- 18
-* -- 122
-:= -- 303
-add.period$ -- 19
-call.type$ -- 6
-change.case$ -- 25
+            619 strings with 7274 characters,
+and the built_in function-call counts, 6097 in all, are:
+= -- 597
+> -- 298
+< -- 0
++ -- 122
+- -- 98
+* -- 472
+:= -- 1042
+add.period$ -- 55
+call.type$ -- 19
+change.case$ -- 105
 chr.to.int$ -- 0
-cite$ -- 6
-duplicate$ -- 78
-empty$ -- 164
-format.name$ -- 18
-if$ -- 391
+cite$ -- 21
+duplicate$ -- 206
+empty$ -- 468
+format.name$ -- 98
+if$ -- 1225
 int.to.chr$ -- 0
-int.to.str$ -- 6
-missing$ -- 8
-newline$ -- 33
-num.names$ -- 12
-pop$ -- 30
+int.to.str$ -- 19
+missing$ -- 18
+newline$ -- 96
+num.names$ -- 36
+pop$ -- 84
 preamble$ -- 1
-purify$ -- 21
+purify$ -- 87
 quote$ -- 0
-skip$ -- 49
+skip$ -- 139
 stack$ -- 0
-substring$ -- 114
-swap$ -- 14
-text.length$ -- 1
+substring$ -- 411
+swap$ -- 19
+text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 20
-warning$ -- 0
-while$ -- 17
-width$ -- 7
-write$ -- 69
+type$ -- 76
+warning$ -- 2
+while$ -- 61
+width$ -- 21
+write$ -- 201
+(There were 2 warnings)
