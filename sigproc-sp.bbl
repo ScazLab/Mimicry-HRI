@@ -9,6 +9,11 @@ J.~N. Bailenson and N.~Yee.
   immersive virtual environments.
 \newblock {\em Psychological science}, 16(10):814--819, 2005.
 
+\bibitem{bargh2012substitutability}
+J.~A. Bargh and I.~Shalev.
+\newblock The substitutability of physical and social warmth in daily life.
+\newblock {\em Emotion}, 12(1):154, 2012.
+
 \bibitem{bavelas1986show}
 J.~B. Bavelas, A.~Black, C.~R. Lemery, and J.~Mullett.
 \newblock " i show how you feel": Motor mimicry as a communicative act.
@@ -64,6 +69,12 @@ J.~L. Lakin, V.~E. Jefferis, C.~M. Cheng, and T.~L. Chartrand.
   significance of nonconscious mimicry.
 \newblock {\em Journal of nonverbal behavior}, 27(3):145--162, 2003.
 
+\bibitem{leander2012you}
+N.~P. Leander, T.~L. Chartrand, and J.~A. Bargh.
+\newblock You give me the chills embodied reactions to inappropriate amounts of
+  behavioral mimicry.
+\newblock {\em Psychological science}, 23(7):772--779, 2012.
+
 \bibitem{maddux2008chameleons}
 W.~W. Maddux, E.~Mullen, and A.~D. Galinsky.
 \newblock Chameleons bake bigger pies and take bigger pieces: Strategic
@@ -91,6 +102,12 @@ L.~D. Riek and P.~Robinson.
   (AFFINE) at the International ACM Conference on Multimodal Interfaces (ICMI
   08). ACM}, 2008.
 
+\bibitem{stel2010mimicking}
+M.~Stel, J.~Blascovich, C.~McCall, J.~Mastop, R.~B. Van~Baaren, and R.~Vonk.
+\newblock Mimicking disliked others: Effects of a priori liking on the
+  mimicry-liking link.
+\newblock {\em European Journal of Social Psychology}, 40(5):867--880, 2010.
+
 \bibitem{stel2010mimicry}
 M.~Stel and R.~Vonk.
 \newblock Mimicry in social interaction: Benefits for mimickers, mimickees, and
@@ -109,5 +126,10 @@ Y.~Yabar, L.~Johnston, L.~Miles, and V.~Peace.
 \newblock Implicit behavioral mimicry: Investigating the impact of group
   membership.
 \newblock {\em Journal of Nonverbal Behavior}, 30(3):97--113, 2006.
+
+\bibitem{zhong2008cold}
+C.-B. Zhong and G.~J. Leonardelli.
+\newblock Cold and lonely does social exclusion literally feel cold?
+\newblock {\em Psychological Science}, 19(9):838--842, 2008.
 
 \end{thebibliography}
