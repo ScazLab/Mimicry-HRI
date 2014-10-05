@@ -5,45 +5,45 @@ The style file: abbrv.bst
 Database file #1: sigproc.bib
 Warning--to sort, need author, organization, or key in naodocumentation
 Warning--empty journal in drury2006effects
-You've used 23 entries,
+You've used 30 entries,
             2118 wiz_defined-function locations,
-            644 strings with 7983 characters,
-and the built_in function-call counts, 7537 in all, are:
-= -- 739
-> -- 375
+            682 strings with 9289 characters,
+and the built_in function-call counts, 10055 in all, are:
+= -- 986
+> -- 510
 < -- 0
-+ -- 153
-- -- 124
-* -- 593
-:= -- 1287
-add.period$ -- 67
-call.type$ -- 23
-change.case$ -- 130
++ -- 207
+- -- 170
+* -- 806
+:= -- 1717
+add.period$ -- 88
+call.type$ -- 30
+change.case$ -- 174
 chr.to.int$ -- 0
-cite$ -- 25
-duplicate$ -- 250
-empty$ -- 572
-format.name$ -- 124
-if$ -- 1512
+cite$ -- 32
+duplicate$ -- 327
+empty$ -- 754
+format.name$ -- 170
+if$ -- 2013
 int.to.chr$ -- 0
-int.to.str$ -- 23
-missing$ -- 22
-newline$ -- 116
-num.names$ -- 44
-pop$ -- 101
+int.to.str$ -- 30
+missing$ -- 29
+newline$ -- 151
+num.names$ -- 58
+pop$ -- 131
 preamble$ -- 1
-purify$ -- 108
+purify$ -- 145
 quote$ -- 0
-skip$ -- 169
+skip$ -- 220
 stack$ -- 0
-substring$ -- 516
-swap$ -- 23
+substring$ -- 698
+swap$ -- 30
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 92
+type$ -- 120
 warning$ -- 2
-while$ -- 76
-width$ -- 25
-write$ -- 245
+while$ -- 102
+width$ -- 32
+write$ -- 322
 (There were 2 warnings)

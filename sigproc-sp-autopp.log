@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=latex 2014.5.25)  4 OCT 2014 00:53
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=latex 2014.5.25)  5 OCT 2014 14:32
 entering extended mode
  %&-line parsing enabled.
 **\let \APPmakepictures \empty \input  sigproc-sp.tex
@@ -448,6 +448,14 @@ LaTeX Warning: Citation `chartrand2013antecedents' on page \thepage  undefined
 on input line 128.
 
 
+LaTeX Warning: Citation `chartrand2005role' on page \thepage  undefined on inpu
+t line 128.
+
+
+LaTeX Warning: Citation `white2011imitation' on page \thepage  undefined on inp
+ut line 128.
+
+
 LaTeX Warning: Citation `chartrand1999chameleon' on page \thepage  undefined on
  input line 128.
 
@@ -476,12 +484,6 @@ LaTeX Warning: Citation `chartrand2013antecedents' on page \thepage  undefined
 on input line 129.
 
 
-Overfull \hbox (2.01805pt too wide) in paragraph at lines 128--130
-\T1/aer/m/n/9 Behavioral mimicry, the im-i-ta-tion of ges-tures, pos-tures, man
--
- []
-
-
 LaTeX Warning: Citation `maddux2008chameleons' on page \thepage  undefined on i
 nput line 131.
 
@@ -508,6 +510,10 @@ ne 131.
 
 LaTeX Warning: Citation `yabar2006implicit' on page \thepage  undefined on inpu
 t line 131.
+
+
+LaTeX Warning: Citation `chartrand2013antecedents' on page \thepage  undefined 
+on input line 131.
 
 
 LaTeX Warning: Citation `chartrand2013antecedents' on page \thepage  undefined 
@@ -545,6 +551,12 @@ LaTeX Warning: Citation `chartrand1999chameleon' on page \thepage  undefined on
  input line 136.
 
 
+Overfull \hbox (10.75381pt too wide) in paragraph at lines 136--137
+\T1/aer/m/n/9 that mim-ic-k-ees find mim-ick-ers more like-able and have smooth
+er
+ []
+
+
 LaTeX Warning: Citation `bailenson2005digital' on page \thepage  undefined on i
 nput line 138.
 
@@ -567,6 +579,11 @@ LaTeX Warning: Citation `riek2010my' on page \thepage  undefined on input line
 
 LaTeX Warning: Citation `riek2008real' on page \thepage  undefined on input lin
 e 138.
+
+
+Overfull \hbox (3.61389pt too wide) in paragraph at lines 138--139
+[]\T1/aer/m/n/9 There has been work fo-cus-ing on human-robot mimicry,
+ []
 
 
 LaTeX Warning: Citation `oberman2007eeg' on page \thepage  undefined on input l
@@ -601,13 +618,19 @@ LaTeX Warning: Citation `lakin2003using' on page \thepage  undefined on input l
 ine 142.
 
 
+LaTeX Warning: Citation `likowski2008modulation' on page \thepage  undefined on
+ input line 142.
+
+
+LaTeX Warning: Citation `mcintosh2006social' on page \thepage  undefined on inp
+ut line 142.
+
+
 LaTeX Warning: Citation `hofree2014bridging' on page \thepage  undefined on inp
 ut line 142.
 
 
-Overfull \hbox (1.58975pt too wide) in paragraph at lines 142--143
-[]\T1/aer/m/n/9 Overall, lit-tle work has been done with human-robot mimicry
- []
+Underfull \vbox (badness 2698) has occurred while \output is active []
 
 
 Overfull \hbox (1.79878pt too wide) in paragraph at lines 148--148
@@ -644,126 +667,128 @@ LaTeX Warning: Citation `chartrand1999chameleon' on page \thepage  undefined on
  input line 156.
 
 
-LaTeX Warning: Reference `nao' on page \thepage  undefined on input line 164.
-
-
-LaTeX Warning: Citation `naodocumentation' on page \thepage  undefined on input
- line 164.
-
-
-LaTeX Warning: Citation `naodocumentation' on page \thepage  undefined on input
- line 164.
-
-
 LaTeX Warning: Reference `nao' on page \thepage  undefined on input line 166.
 
 
-LaTeX Warning: Reference `nao' on page \thepage  undefined on input line 166.
+LaTeX Warning: Citation `naodocumentation' on page \thepage  undefined on input
+ line 166.
+
+
+LaTeX Warning: Citation `naodocumentation' on page \thepage  undefined on input
+ line 166.
+
+
+LaTeX Warning: Reference `nao' on page \thepage  undefined on input line 168.
+
+
+LaTeX Warning: Reference `nao' on page \thepage  undefined on input line 168.
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
-LaTeX Warning: Reference `setup' on page \thepage  undefined on input line 170.
+LaTeX Warning: Reference `setup' on page \thepage  undefined on input line 172.
 
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 LaTeX Warning: Citation `chartrand1999chameleon' on page \thepage  undefined on
- input line 174.
+ input line 176.
 
 
 LaTeX Warning: Citation `chartrand2013antecedents' on page \thepage  undefined 
-on input line 174.
+on input line 176.
 
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
+LaTeX Warning: Citation `tia2011does' on page \thepage  undefined on input line
+ 176.
+
+
+LaTeX Warning: Citation `tiedens2003power' on page \thepage  undefined on input
+ line 176.
 
 
 LaTeX Warning: Citation `hofree2014bridging' on page \thepage  undefined on inp
-ut line 176.
+ut line 178.
 
 
-Overfull \hbox (9.60046pt too wide) in paragraph at lines 194--197
-\T1/aer/m/n/9 nif-i-cance used the fol-low-ing guide-lines and jus-ti-fi-ca-tio
-ns. Given
- []
-
-
-LaTeX Warning: Reference `hips' on page \thepage  undefined on input line 206.
-
-
-LaTeX Warning: Reference `hips' on page \thepage  undefined on input line 212.
-
-
-Overfull \hbox (12.3708pt too wide) in paragraph at lines 223--224
+Overfull \hbox (16.66125pt too wide) in paragraph at lines 206--207
 []\T1/aer/m/n/9 For the \T1/aer/bx/n/9 strict \T1/aer/m/n/9 def-i-ni-tion of ha
-nds be-hind back, non-spontaneous
+nds on hips, non-spontaneous
  []
 
 
-LaTeX Warning: Reference `back' on page \thepage  undefined on input line 227.
+Overfull \hbox (15.06834pt too wide) in paragraph at lines 208--209
+[]\T1/aer/m/n/9 For the \T1/aer/bx/n/9 loose \T1/aer/m/n/9 def-i-ni-tion of han
+ds on hips, non-spontaneous
+ []
+
+
+LaTeX Warning: Reference `hips' on page \thepage  undefined on input line 210.
+
+
+LaTeX Warning: Reference `hips' on page \thepage  undefined on input line 216.
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
-Overfull \hbox (10.7779pt too wide) in paragraph at lines 229--230
-[]\T1/aer/m/n/9 For the \T1/aer/bx/n/9 loose \T1/aer/m/n/9 def-i-ni-tion of han
-ds be-hind back, non-spontaneous
+LaTeX Warning: Reference `back' on page \thepage  undefined on input line 231.
+
+
+Overfull \hbox (1.38121pt too wide) in paragraph at lines 231--232
+[]\T1/aer/m/n/9 The re-sults for the non-spontaneous hands be-hind back
  []
 
 
-LaTeX Warning: Reference `back' on page \thepage  undefined on input line 233.
+LaTeX Warning: Reference `back' on page \thepage  undefined on input line 237.
 
 
-LaTeX Warning: Reference `svl' on page \thepage  undefined on input line 249.
-
-
-Overfull \hbox (11.6872pt too wide) in paragraph at lines 249--250
-\T1/aer/m/n/9 per-form the be-hav-ior spon-ta-neously, their po-ten-tial for mi
-micry
- []
+LaTeX Warning: Citation `gueguen2011mimicry' on page \thepage  undefined on inp
+ut line 257.
 
 
 LaTeX Warning: Citation `bargh2012substitutability' on page \thepage  undefined
- on input line 253.
+ on input line 257.
 
 
 LaTeX Warning: Citation `leander2012you' on page \thepage  undefined on input l
-ine 253.
+ine 257.
 
 
 LaTeX Warning: Citation `stel2010mimicking' on page \thepage  undefined on inpu
-t line 253.
+t line 257.
 
 
 LaTeX Warning: Citation `zhong2008cold' on page \thepage  undefined on input li
-ne 253.
+ne 257.
 
 
 LaTeX Warning: Citation `kavanagh2011s' on page \thepage  undefined on input li
-ne 253.
+ne 257.
 
 
 LaTeX Warning: Citation `bailenson2005digital' on page \thepage  undefined on i
-nput line 255.
+nput line 259.
 
 
 LaTeX Warning: Citation `bailenson2005digital' on page \thepage  undefined on i
-nput line 255.
+nput line 259.
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
-Overfull \hbox (3.39789pt too wide) in paragraph at lines 260--261
+Overfull \hbox (3.39789pt too wide) in paragraph at lines 264--265
 \T1/aer/m/n/9 sen-tial piece of de-sign-ing so-cial robots. In par-tic-u-lar, m
 imicry
  []
 
 
 LaTeX Warning: Citation `chartrand2013antecedents' on page \thepage  undefined 
-on input line 263.
+on input line 267.
 
 No file sigproc-sp-autopp.bbl.
 
@@ -774,12 +799,12 @@ LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 10672 strings out of 493118
- 181999 string characters out of 6135459
- 249732 words of memory out of 5000000
- 13975 multiletter control sequences out of 15000+600000
+ 10678 strings out of 493118
+ 182128 string characters out of 6135459
+ 249733 words of memory out of 5000000
+ 13981 multiletter control sequences out of 15000+600000
  39815 words of font info for 51 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 61i,16n,96p,2374b,523s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 61i,16n,96p,2284b,525s stack positions out of 5000i,500n,10000p,200000b,80000s
 
 No pages of output.
